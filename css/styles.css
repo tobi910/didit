@@ -1,12 +1,60 @@
 body {
   padding-top: 50px;
+  font-size: 28px;
 }
 
 .logo {
 background-color: #FAFAFA;
 }
 
-.navbar-color {
+.navbar {
+min-height: 100px;
 background-color: #424242;
 }
 
+.navbar-elements {
+    padding: 40px 15px;
+}
+
+.distance-navbar {
+padding-top: 100px;
+}
+
+.navbar-brand {
+    font-size: 18px;
+    line-height: 20px;
+    padding-top: 0px;
+}
+
+.text-center2 {
+    text-align: left;
+}
+
+.active {
+    background-color: ;
+}
+a {
+    color: red;
+}
+
+.sicon:hover {
+    background-color: green;
+}
+
+.img1 {
+float: left;
+padding-left: 300px;
+}
+
+.img2 {
+float: right;
+padding-right: 300px;
+}
+
+h1 {
+	color:black;
+}
+
+p {
+	color:black;
+}
